@@ -133,4 +133,5 @@ dmypy.json
 .vscode
 *.csv
 *.txt
+pylintrc
 
